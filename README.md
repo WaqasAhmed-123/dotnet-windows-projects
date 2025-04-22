@@ -7,7 +7,7 @@ This repository contains various learning projects built using **C# Windows Form
 
 - **Hello App** – A simple Windows Forms application to learn the flow of windows forms.  
 - **Basic Login + CRUD** – Implements user authentication and basic CRUD operations.  
-- **Basic Login + CRUD (Using Local DB)** – Enhances the login and CRUD functionality by integrating a local database.  
+- **Basic Login + CRUD (Using Local DB)** – Enhances the login and CRUD functionality by integrating a local database (just install the exe and use system, no need of Db service provider).  
 
 
 ## Used Technologies  
